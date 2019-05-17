@@ -12,9 +12,43 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 1870,
-                    "y": 252,
+                    "x": 303,
+                    "y": 185,
                     "ioValues": []
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 303,
+                    "y": 185,
+                    "uniqueID": 970493,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 303,
+                    "y": 185,
+                    "uniqueID": 286938,
+                    "ioValues": [
+                        {
+                            "name": "radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "max segment size",
+                            "ioValue": 1
+                        }
+                    ]
                 }
             ],
             "allConnectors": [],
